@@ -1,5 +1,3 @@
-<div class="center">
-<center>
+<div align="center">
 <img src="Untitled design (7).png"/>
-</center>
 </div>
